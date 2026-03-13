@@ -69,4 +69,4 @@ El web scraping debe realizarse de manera responsable.
 La estructura del sitio web de "El País" puede cambiar en cualquier momento, lo que podría hacer que el scraper deje de funcionar. En ese caso, sería necesario actualizar los selectores en la función `parse_headlines` del archivo `scraper/core.py`.
 
 ---
-*Desarrollado por [Tu Nombre].*
+*Desarrollado por David Arenas Cabeza.*
